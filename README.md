@@ -30,17 +30,18 @@ Portfolio :v: :sparkles:
 * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
 * [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * * *
-* HEAD
+
 * React
 * * tic-tacs-toe
 * * *
 * Git
-* * [Source Code]()
+* * Master Using Git Bash in a local file.
 * * [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
 
 * * *
 * React
+* * Finishing React APP Tutorial and Succesfully running on my Vss.
 * * [Study Link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 * * *
 
