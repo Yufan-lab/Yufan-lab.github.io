@@ -26,3 +26,12 @@ Third week of the class
 * Finishing JavaScript and did a simple code about math
 * Adding git section and start learing git 
 * Orgnize Portfolio
+
+Fourth Week of the class
+--
+* Update Change Log
+* Update To-do List
+* According to TA's feedback, the JS code was rewritten to make it more operability than before. (Added multiplication and division algorithm)
+* Learning React Tutorial and successfully Deploying with GitHub Pages.(My computer went wrong for like 1000times and finally gei it done)!!
+* Learning Tic-tac-Toe small game in React and Finishing coding step by step with Tutorial.
+* Watching the 2- hour Ta-trainer vedio

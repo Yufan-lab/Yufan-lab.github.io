@@ -26,8 +26,8 @@ Portfolio :v: :sparkles:
 * * [Study Link](https://htmldog.com/guides/javascript/)
 * * *
 
-* [TypeScript](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
-* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* TypeScript
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.ts)
 * * [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 * * *
@@ -41,6 +41,8 @@ Portfolio :v: :sparkles:
 * * Finishing React APP Tutorial and Succesfully running on my Vss.
 * * [Study Link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 * * *
+* Testing Library
+* * [cheat sheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
 
 
 Personal Info   :bowtie: :bowtie:
