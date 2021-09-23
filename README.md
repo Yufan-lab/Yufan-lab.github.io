@@ -27,12 +27,9 @@ Portfolio :v: :sparkles:
 * * *
 
 * [TypeScript](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
-* [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
-* [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-* * *
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* * [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
-* React
-* * tic-tacs-toe
 * * *
 * Git
 * * Master Using Git Bash in a local file.
@@ -46,7 +43,7 @@ Portfolio :v: :sparkles:
 * * *
 
 
-Info :bowtie: :bowtie:
+Personal Info   :bowtie: :bowtie:
 ==
 * Name: Jiang Yufan
 * Region: China
