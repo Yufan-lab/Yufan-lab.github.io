@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>计算器</title>
+ </head>
+ <body>
+  数字一:<input type="text" id="first" placeholder="数字一:" onblur="one()"  /><br />
+  数字二:<input type="text" id="second" placeholder="数字二:" onblur="two()" /><br />
+  运算符:<select id="select">
+   <option>请选择</option>
+   <option id="add">+</option>
+   <option id="minus">-</option>
+   <option id="multiply">*</option>
+   <option id="divide">/</option>
+  </select><br />
+  结果:<input type="text" id="result" />
+ </body>
+ <script>
+  var number1 = 0;
+  var number2 = 0;
+  function one() {   
+   var first=document.getElementById("first").value;
+   number1 = Number(first);
+   console.log(number1);
+  }
+  function two() {
+   var second=document.getElementById("second").value;
+   number2 = Number(second);
+   console.log(number2);   
+  }  
+  /*document.getElementById("add").addEventListener("click", function() {
+   document.getElementById("result").value=number1+number2;   
+  });*/
+  document.getElementById("add").onclick=function() {
+   document.getElementById("result").value=number1+number2;
+  }
+  document.getElementById("minus").onclick=function() {
+   document.getElementById("result").value=number1-number2;
+  }
+  document.getElementById("multiply").onclick=function() {
+   document.getElementById("result").value=number1*number2;
+  }
+  document.getElementById("divide").onclick=function() {
+   document.getElementById("result").value=number1/number2;
+  }
+ </script>
+</html>
+
