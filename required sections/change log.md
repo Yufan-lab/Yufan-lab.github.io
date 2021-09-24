@@ -35,3 +35,5 @@ Fourth Week of the class
 * Learning React Tutorial and successfully Deploying with GitHub Pages.(My computer went wrong for like 1000times and finally gei it done)!!
 * Learning Tic-tac-Toe small game in React and Finishing coding step by step with Tutorial.
 * Watching the 2- hour Ta-trainer vedio
+* Review the html, css, js, ts tutorial and start learning the rest tutorials.
+* talking to my classmates through DC and get a lot questions done. write them down and review.
