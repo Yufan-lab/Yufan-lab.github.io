@@ -38,8 +38,8 @@ Portfolio :v: :sparkles:
 
 * * *
 * React
-* * [Tic-Tac-Toe]()
-* * [Source Code]()
+* * [Tic-Tac-Toe](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/TicTacToe.png)
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/index.js)
 * * Finishing React APP Tutorial and Succesfully running on my Vss.
 * * [Study Link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 * * *
