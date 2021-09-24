@@ -25,4 +25,4 @@ Milestone 3
 * form a habit by using git command in Vsc code and doing the React App Tutorial.(Successfully connect "app" from vsc to github)
 * Update change log and to-do list
 * start considering the mini project like quiz game.
-* 
+* Organize the portfolio.
