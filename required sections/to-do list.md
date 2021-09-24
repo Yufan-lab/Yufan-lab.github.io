@@ -26,3 +26,6 @@ Milestone 3
 * Update change log and to-do list
 * start considering the mini project like quiz game.
 * Organize the portfolio.
+* Recall the Html and Css tutorial everyday and keep practice React stuff.
+* talking to my classmates and ask question through Discord frequently to stay on track and improve my skill.
+* start looking at the rest tutorials.
