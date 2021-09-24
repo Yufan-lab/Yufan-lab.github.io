@@ -17,3 +17,12 @@ Milestone 2
 * Update To-do List.
 * Organize Portfolio.
 * * *
+
+Milestone 3
+==
+* Learning React and Finish coding Tic-tac-toe small game step by step with tutorial.
+* develop the JavaScript by rewrite the code, add more functions like Multiplication and division.
+* form a habit by using git command in Vsc code and doing the React App Tutorial.(Successfully connect "app" from vsc to github)
+* Update change log and to-do list
+* start considering the mini project like quiz game.
+* 
