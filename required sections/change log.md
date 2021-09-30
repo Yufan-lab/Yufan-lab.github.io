@@ -37,3 +37,8 @@ Fourth Week of the class
 * Watching the 2- hour Ta-trainer vedio
 * Review the html, css, js, ts tutorial and start learning the rest tutorials.
 * talking to my classmates through DC and get a lot questions done. write them down and review.
+
+Fifth Week of the class
+--
+* Update Change Log
+* According to TA's feedback, 
