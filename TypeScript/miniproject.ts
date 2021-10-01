@@ -70,7 +70,7 @@ enum Player {
     let isWin = checkWin(currentPlayer)
     if (isWin) {
       message.style.display = 'block'
-      winner.innerText = currentPlayer + ' 赢了！'
+      winner.innerText = currentPlayer + ' WON！'
      
       return
     }
@@ -78,7 +78,7 @@ enum Player {
     
     if (steps === 9) {
       message.style.display = 'block'
-      winner.innerText = '平局~'
+      winner.innerText = 'Battle unclear~'
       return
     }
    
