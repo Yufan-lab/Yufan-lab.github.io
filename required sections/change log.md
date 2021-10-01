@@ -41,4 +41,9 @@ Fourth Week of the class
 Fifth Week of the class
 --
 * Update Change Log
-* According to TA's feedback, 
+* According to TA's feedback, Add more CSS on the portfolio page; Add more function and develop JS and TS; Finishing React Project; Learning and practice git command(good git commit messages).
+* Add new working repository.
+* Review the problem last week and keep reviewing on the Html, CSS, JS Tutorial.
+* Add React Miniproject.
+* 
+* Orgnize the portfoloi.
