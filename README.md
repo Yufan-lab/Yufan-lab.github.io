@@ -27,12 +27,15 @@ Portfolio :v: :sparkles:
 * * *
 
 * TypeScript
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/miniproject.ts)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.ts)
 * * [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 * * *
 * Git
 * * Master Using Git Bash in a local file.
+* * [Learning and Practise Git Command](https://www.perforce.com/blog/vcs/git-best-practices-git-commit)
+* * [Learning Using good git commit message](https://www.perforce.com/blog/vcs/git-best-practices-git-commit)
 * * [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
 
