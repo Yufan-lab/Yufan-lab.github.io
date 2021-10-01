@@ -12,6 +12,7 @@ Portfolio :v: :sparkles:
 * * *
 * [CSS](https://yufan-lab.github.io/yufan'scsscode.html)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/yufan'scsscode.html)
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/yufan'scsscode2.html)
 * * [Study Link](https://htmldog.com/guides/css/)
 * * *
 * [VScode](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/Vsscode/Vsscode.png)
@@ -42,7 +43,7 @@ Portfolio :v: :sparkles:
 * * *
 * React
 * Adding small React Snake game
-* * [Source Code]()
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/MiniReactProject/index.js)
 
 * * [Tic-Tac-Toe](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/TicTacToe.png)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/index.js)
