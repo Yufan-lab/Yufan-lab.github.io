@@ -41,6 +41,9 @@ Portfolio :v: :sparkles:
 
 * * *
 * React
+* Adding small React Snake game
+* * [Source Code]()
+
 * * [Tic-Tac-Toe](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/TicTacToe.png)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/index.js)
 * * Finishing React APP Tutorial and Succesfully running on my Vss.
