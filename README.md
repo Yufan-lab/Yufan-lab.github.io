@@ -42,8 +42,7 @@ Portfolio :v: :sparkles:
 
 * * *
 * React
-* Adding small React Snake game
-* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/MiniReactProject/index.js)
+* [Adding small React Calculator game](https://github.com/Yufan-lab/React-small-project)
 
 * * [Tic-Tac-Toe](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/TicTacToe.png)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/app/src/index.js)
